@@ -1,1 +1,1 @@
-# ML-model-from-scratch
+# ML-Bootcamp
